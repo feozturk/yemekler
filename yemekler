@@ -1,0 +1,47 @@
+{"yemekler":[
+	{
+	"yemek_id":1,
+	"yemek_adi":"Mantı",
+	"yemek_aciklama":"deneme",
+	"yemek_tur":"Hamur",	
+	"yemek_pisirme_suresi":"deneme",
+	"yemek_hazirlama_suresi":"deneme",
+	"yemek_kisi_sayisi":"deneme",
+	"yemek_resim":"deneme",
+	"yemek_malzemeler":"deneme"
+	},
+	{
+	"yemek_id":2,
+	"yemek_adi":"Ezogelin Çorbası",
+	"yemek_aciklama":"deneme",
+	"yemek_tur":"Çorba",	
+	"yemek_pisirme_suresi":"deneme",
+	"yemek_hazirlama_suresi":"deneme",
+	"yemek_kisi_sayisi":"deneme",
+	"yemek_resim":"deneme",
+	"yemek_malzemeler":"deneme"
+	},
+	{
+	"yemek_id":3,
+	"yemek_adi":"Köfte",
+	"yemek_aciklama":"deneme",
+	"yemek_tur":"Et-Ürünü",	
+	"yemek_pisirme_suresi":"deneme",
+	"yemek_hazirlama_suresi":"deneme",
+	"yemek_kisi_sayisi":"deneme",
+	"yemek_resim":"deneme",
+	"yemek_malzemeler":"deneme"
+	},
+	{
+	"yemek_id":4,
+	"yemek_adi":"Domates Çorbası",
+	"yemek_aciklama":"deneme",
+	"yemek_tur":"Çorba",	
+	"yemek_pisirme_suresi":"deneme",
+	"yemek_hazirlama_suresi":"deneme",
+	"yemek_kisi_sayisi":"deneme",
+	"yemek_resim":"deneme",
+	"yemek_malzemeler":"deneme"
+	},
+]}
+	
